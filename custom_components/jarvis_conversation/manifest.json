@@ -1,7 +1,7 @@
 {
     "domain": "jarvis_conversation",
     "name": "Jarvis AI Conversation Agent",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "documentation": "https://github.com/Iron-Matrix4/ha-integrations",
     "issue_tracker": "https://github.com/Iron-Matrix4/ha-integrations/issues",
     "dependencies": [],
